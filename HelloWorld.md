@@ -1,6 +1,6 @@
 ## This is a markdown file.
 
-# Welcome to the datasciencecoursera repo: URL: tp://dominga11.github.io/datasciencecoursera.
+# Welcome to the datasciencecoursera repo: URL: http://dominga11.github.io/datasciencecoursera.
 
 ### The Data Scientist Toolkit is a course that presented a broad overview of the concepts covered over the course of the Data Science Specialization on coursera.org.  The main purpose of this course is to arm the student with the necessary computer tools and online accounts needed for the remainder of the specialization courses.
 
